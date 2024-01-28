@@ -63,3 +63,7 @@ C:\Users\my pc\Documents\Code Academy\ASP.Net File\APIapp Solution\APIapp\bin\De
 C:\Users\my pc\Documents\Code Academy\ASP.Net File\APIapp Solution\APIapp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\my pc\Documents\Code Academy\ASP.Net File\APIapp Solution\APIapp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\my pc\Documents\Code Academy\ASP.Net File\APIapp Solution\APIapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\my pc\Documents\Code Academy\ASP.Net File\APIapp Solution\APIapp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\my pc\Documents\Code Academy\ASP.Net File\APIapp Solution\APIapp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\my pc\Documents\Code Academy\ASP.Net File\APIapp Solution\APIapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\my pc\Documents\Code Academy\ASP.Net File\APIapp Solution\APIapp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
