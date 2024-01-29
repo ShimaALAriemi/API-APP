@@ -151,6 +151,8 @@ namespace APIapp.Controllers
             {
                 return BadRequest(ModelState);
             }
+            _dbContext.ToDoList.Update(taskUpdated);
+            _dbContext.SaveChanges();
             return NoContent();
         }
     }
